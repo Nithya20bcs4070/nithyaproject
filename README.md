@@ -1,2 +1,2 @@
 # nithyaproject
-This project is based on Web development by using using Angular.JS, flask and backend is Mongodb.
+Mall customer segmentation. The aim of the project is to cluster the customer based on the behavioural pattern.
