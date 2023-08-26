@@ -1,0 +1,201 @@
+Customer ID,Gender,Age,Clothing,Entertainment,Food,Footwear,Spending score of footwear,Spending score of Food,Spending score of Entertainment,Spending score of Clothing
+1,Male,43,western wear,theatre,chinese,ballerina ,15000,51561956,1524933,1562555
+2,Male,39,casual wear,kid zone,indian,sneakers,14862,65895626,55241361,1586245
+3,Female,44,ethnic wear,theatre,french,crocs,15863,62598566,7586321,2456318
+4,Female,38,traditional wear,theatre,american,loafers,9874,91526626,3256321,2014451
+5,Female,47,party wear,kid zone,chinese,loafers,10254,51595854,2715236,1547896
+6,Female,27,western wear,kid zone,chinese,loafers,20549,26225656,7593100,1354896
+7,Male,37,western wear,party time,french,loafers,35791,51215488,1155222,1987456
+8,Female,30,western wear,music zone,french,ballerina ,25841,26592848,6969632,2144563
+9,Male,34,western wear,music zone,indian,ballerina ,10256,65629899,1478963,2594996
+10,Female,30,casual wear,party time,indian,crocs,54126,59232959,2015694,3541297
+11,Female,56,casual wear,kid zone,american,sneakers,15248,32132159,2105638,5584857
+12,Female,29,ethnic wear,kid zone,indian,sneakers,36519,56488899,2459319,8452192
+13,Male,19,ethnic wear,theatre,indian,ballerina ,10258,22222222,1414125,1102102
+14,Female,31,party wear,theatre,indian,crocs,24593,55555555,7836373,1583093
+15,Male,50,ethnic wear,kid zone,indian,loafers,10262,99595252,6383739,1000264
+16,Female,36,casual wear,party time,french,loafers,19872,77777777,9737368,3654289
+17,Male,42,casual wear,kid zone,chinese,crocs,8522,20220200,6593849,4589321
+18,Female,33,party wear,party time,chinese,loafers,11111,84848663,5151655,1486325
+19,Female,36,traditional wear,music zone,chinese,ballerina ,12365,35795120,5155155,4684744
+20,Male,32,traditional wear,music zone,chinese,ballerina ,11115,58425963,5654516,4384696
+21,Male,40,traditional wear,music zone,chinese,sneakers,25896,65959592,9564256,5214403
+22,Male,28,party wear,music zone,chinese,crocs,15368,62562959,9534556,2525252
+23,Male,36,party wear,music zone,indian,sneakers,15523,95953333,9354526,3625412
+24,Male,36,traditional wear,theatre,chinese,sneakers,25698,62959595,5512463,7539510
+25,Female,52,traditional wear,theatre,american,sneakers,21458,60385595,9541230,3571590
+26,Female,30,traditional wear,theatre,indian,sneakers,19999,22211156,5836110,8527410
+27,Male,58,ethnic wear,party time,french,crocs,21111,66554411,3354125,9638520
+28,Male,27,party wear,party time,french,crocs,24563,33221155,6452131,1236540
+29,Male,59,casual wear,kid zone,indian,ballerina ,21514,10002566,3665445,7896540
+30,Male,35,party wear,kid zone,american,loafers,24599,35735735,2541254,3245690
+31,Female,37,traditional wear,music zone,chinese,loafers,15863,12915995,3210156,1436850
+32,Female,32,ethnic wear,theatre,chinese,loafers,11110,25136682,8423106,1532049
+33,Male,46,casual wear,party time,indian,ballerina ,26541,25848152,3651145,7630014
+34,Female,29,traditional wear,party time,french,ballerina ,19654,36695965,3215649,4102592
+35,Female,41,traditional wear,party time,french,loafers,18635,86325223,7563951,3693690
+36,Male,30,ethnic wear,kid zone,american,loafers,15746,25825825,5412369,2582580
+37,Female,54,ethnic wear,music zone,indian,sneakers,15468,33255222,5952800,1471470
+38,Male,28,party wear,music zone,french,sneakers,36541,22001610,3213210,7417410
+39,Female,41,party wear,party time,chinese,crocs,15994,23695500,6982031,8528520
+40,Female,36,party wear,party time,chinese,crocs,22222,85285285,6412382,9639630
+41,Female,34,party wear,kid zone,american,ballerina ,33354,35959584,3214569,3213210
+42,Female,32,casual wear,kid zone,indian,crocs,15965,25151555,1589222,6544560
+43,Male,33,casual wear,music zone,chinese,sneakers,18888,85629559,5962321,7089789
+44,Female,38,ethnic wear,theatre,french,sneakers,15863,25216999,1232136,1414114
+45,Female,47,traditional wear,theatre,french,crocs,15866,22255555,5546321,1102020
+46,Female,35,traditional wear,theatre,chinese,sneakers,22228,99999522,2103654,3547820
+47,Female,45,traditional wear,party time,indian,crocs,8036,77778888,3690145,1025796
+48,Male,32,traditional wear,kid zone,american,sneakers,32541,25485445,5031030,2222222
+49,Male,32,party wear,music zone,french,crocs,21456,66654555,3003033,5579963
+50,Male,30,party wear,theatre,chinese,crocs,22445,54522222,6040980,2536941
+51,Male,52,party wear,party time,indian,crocs,25641,78902345,5634221,9870342
+52,Female,41,casual wear,kid zone,indian,crocs,24984,56439021,9087665,6745002
+53,Female,62,traditional wear,party time,american,sneakers,15632,98765432,9005670,9985432
+54,Female,35,party wear,party time,french,sneakers,17925,99664532,7765343,2346787
+55,Female,14,party wear,kid zone,indian,loafers,12035,43569021,3288905,9875210
+56,Male,25,traditional wear,party time,indian,loafers,15492,88765493,4509778,5648398
+57,Male,45,ethnic wear,music zone,indian,loafers,25264,34233098,2138894,4360984
+58,Female,65,ethnic wear,theatre,french,sneakers,22222,84848663,4533987,7869875
+59,Male,51,traditional wear,party time,american,sneakers,26454,35795120,1230987,3248096
+60,Female,52,party wear,theatre,american,sneakers,26666,58425963,5490022,4390548
+61,Male,53,party wear,music zone,indian,sneakers,10245,65959592,5644908,2337643
+62,Female,45,party wear,theatre,indian,sneakers,12342,62562959,2311008,2121450
+63,Female,48,ethnic wear,kid zone,indian,ballerina ,16452,95953333,4432095,6113454
+64,Male,49,casual wear,theatre,indian,crocs,12222,62959595,7790043,5432100
+65,Male,67,ethnic wear,theatre,indian,crocs,20002,60385595,8865320,8790644
+66,Male,28,ethnic wear,kid zone,french,crocs,21000,22211156,3456008,4213689
+67,Male,39,party wear,party time,indian,crocs,15324,66554411,2322450,3172340
+68,Male,49,traditional wear,party time,chinese,crocs,21059,33221155,4487900,4367994
+69,Male,67,traditional wear,party time,chinese,ballerina ,24587,10002566,2211400,7891233
+70,Female,59,party wear,theatre,chinese,loafers,21568,35735735,3245876,4321670
+71,Female,51,ethnic wear,theatre,chinese,loafers,15684,12915995,6654390,3245768
+72,Female,50,ethnic wear,music zone,american,ballerina ,13025,25136682,7798321,3489021
+73,Female,20,party wear,music zone,american,sneakers,14902,25848152,5491002,4115004
+74,Female,10,ethnic wear,theatre,american,sneakers,16585,36695965,3211934,4991543
+75,Female,20,ethnic wear,kid zone,american,sneakers,20495,86325223,1287322,7600213
+76,Female,20,party wear,theatre,chinese,sneakers,24065,25825825,5587234,9298763
+77,Male,61,party wear,kid zone,chinese,ballerina ,15554,33255222,1190543,8605543
+78,Female,33,party wear,theatre,chinese,crocs,24154,22001610,3377450,4128007
+79,Male,22,party wear,theatre,chinese,crocs,21421,23695500,7654400,5632404
+80,Male,22,traditional wear,kid zone,chinese,crocs,20004,85285285,3400567,5112560
+81,Male,44,traditional wear,kid zone,indian,crocs,15054,35959584,2300987,2903567
+82,Male,51,party wear,theatre,indian,loafers,22200,25151555,6577001,4189047
+83,Male,63,ethnic wear,theatre,indian,crocs,11546,85629559,3400567,7345609
+84,Male,24,party wear,theatre,indian,crocs,16520,25216999,4222100,5489761
+85,Female,20,ethnic wear,music zone,indian,crocs,13025,22255555,5600002,6532401
+86,Female,27,casual wear,theatre,french,ballerina ,14520,99999522,5543002,3890431
+87,Male,29,ethnic wear,party time,french,ballerina ,20154,77778888,8845002,9070564
+88,Female,24,ethnic wear,party time,french,sneakers,21456,25485445,9001342,5709463
+89,Male,31,party wear,party time,french,sneakers,23654,66654555,2113005,7224356
+90,Female,36,casual wear,theatre,chinese,sneakers,20148,54522222,8764003,5489032
+91,Female,29,party wear,theatre,american,ballerina ,29842,78902345,5488078,9054326
+92,Male,55,ethnic wear,theatre,american,ballerina ,21593,56439021,4321664,5123409
+93,Male,54,traditional wear,kid zone,american,ballerina ,16820,98765432,7190611,6234115
+94,Male,53,traditional wear,kid zone,american,ballerina ,17893,99664532,9995564,9456332
+95,Male,22,ethnic wear,theatre,chinese,crocs,24153,43569021,8976022,4396524
+96,Female,11,ethnic wear,theatre,chinese,ballerina ,20145,88765493,4800766,1145609
+97,Female,88,party wear,party time,indian,ballerina ,21211,34233098,6500871,1980456
+98,Female,35,ethnic wear,kid zone,american,ballerina ,26666,43215678,3398004,1387904
+99,Female,54,ethnic wear,kid zone,indian,ballerina ,25555,76859213,8200768,2087649
+100,Female,20,ethnic wear,theatre,indian,sneakers,24444,43526180,7590321,6214500
+101,Male,54,casual wear,theatre,indian,sneakers,15555,89700005,6543908,7234119
+102,Male,56,party wear,music zone,indian,sneakers,16666,86500219,5031030,9954112
+103,Female,52,casual wear,party time,indian,sneakers,13333,12347894,3003033,6790432
+104,Male,58,ethnic wear,theatre,chinese,ballerina ,28888,41238867,6040980,8543487
+105,Male,33,party wear,music zone,chinese,crocs,29999,67859832,5634221,7590432
+106,Male,15,traditional wear,kid zone,chinese,ballerina ,27598,34560067,9087665,6709432
+107,Female,44,party wear,theatre,chinese,ballerina ,15463,98704324,9005670,6234098
+108,Male,48,ethnic wear,theatre,american,ballerina ,24563,56908777,7765343,2908764
+109,Female,66,party wear,music zone,american,ballerina ,20001,67120054,3288905,5390876
+110,Female,49,casual wear,theatre,american,sneakers,20005,67230065,4509778,2399065
+111,Female,55,casual wear,music zone,chinese,sneakers,20004,90025674,2138894,4235678
+112,Female,74,ethnic wear,theatre,french,sneakers,20003,76569098,4533987,8706549
+113,Female,72,ethnic wear,theatre,french,sneakers,20005,98654477,1230987,6345098
+114,Female,15,ethnic wear,party time,french,sneakers,20009,56432178,5490022,3450987
+115,Male,24,traditional wear,kid zone,chinese,sneakers,20008,98764532,5644908,7195322
+116,Male,55,party wear,theatre,chinese,loafers,20007,34670087,2311008,9215678
+117,Male,22,party wear,music zone,indian,loafers,10000,67568903,4432095,6439008
+118,Male,20,party wear,music zone,indian,ballerina ,10002,56342211,7790043,9043211
+119,Male,22,casual wear,music zone,indian,ballerina ,16484,76554433,8865320,7800543
+120,Female,54,ethnic wear,music zone,indian,loafers,19000,87970065,3456008,6900654
+121,Female,44,party wear,theatre,indian,crocs,18000,78869004,1524933,4389000
+122,Female,48,casual wear,theatre,indian,ballerina ,17000,76554321,55241361,7954321
+123,Female,49,party wear,party time,chinese,ballerina ,14000,45233378,7586321,5909876
+124,Female,49,traditional wear,kid zone,chinese,ballerina ,10005,34958867,3256321,4906549
+125,Male,4,party wear,kid zone,chinese,ballerina ,19301,45909695,2715236,4689021
+126,Female,9,casual wear,kid zone,french,ballerina ,24593,32457788,7593100,3609872
+127,Male,6,casual wear,music zone,french,loafers,20589,55453322,1155222,7213459
+128,Female,64,party wear,theatre,french,loafers,19986,44557788,6969632,9000008
+129,Male,24,party wear,theatre,french,loafers,19304,99675431,1478963,5490781
+130,Male,60,ethnic wear,theatre,indian,loafers,18630,76544321,2015694,4678902
+131,Male,61,ethnic wear,theatre,indian,ballerina ,24651,88765643,2105638,4578902
+132,Female,60,traditional wear,kid zone,chinese,ballerina ,25563,32117788,2459319,7638520
+133,Female,67,traditional wear,kid zone,chinese,ballerina ,26656,65789033,9569765,9136540
+134,Female,64,ethnic wear,party time,american,crocs,16111,98564433,3474460,9296540
+135,Male,34,casual wear,theatre,chinese,crocs,15111,27232425,2341344,2245690
+136,Male,3,ethnic wear,music zone,french,sneakers,24564,98676544,3213249,1936850
+137,Male,4,casual wear,kid zone,french,sneakers,21212,89676532,3345075,8932049
+138,Male,89,casual wear,party time,french,sneakers,23232,56700044,3883995,9430014
+139,Male,6,ethnic wear,party time,french,sneakers,27286,32895600,4432218,2102592
+140,Female,54,casual wear,party time,chinese,sneakers,12325,13456900,2265443,9493690
+141,Female,84,casual wear,party time,indian,sneakers,15648,56893211,7765480,9582580
+142,Male,48,ethnic wear,theatre,indian,ballerina ,19845,13459987,9954094,1971470
+143,Female,44,party wear,theatre,chinese,ballerina ,12345,98223345,4322345,7217410
+144,Male,77,party wear,theatre,chinese,crocs,17856,45332290,3456781,8928520
+145,Male,7,traditional wear,kid zone,american,crocs,13647,78765232,2348765,4639630
+146,Female,31,traditional wear,kid zone,american,crocs,24736,89706543,9670543,9213210
+147,Female,30,traditional wear,kid zone,american,ballerina ,26901,89763321,2345004,6546760
+148,Female,26,party wear,theatre,chinese,ballerina ,24703,45879004,1120967,6089789
+149,Female,50,ethnic wear,theatre,chinese,ballerina ,28902,21349908,3198456,1990912
+150,Male,40,traditional wear,kid zone,chinese,loafers,16589,43329876,2176843,5690043
+151,Male,22,party wear,music zone,american,loafers,13647,65443309,8934007,5347820
+152,Male,44,party wear,party time,chinese,loafers,15648,78900321,9834522,1925796
+153,Female,66,traditional wear,party time,chinese,ballerina ,10937,65443329,5487003,2255668
+154,Female,11,traditional wear,party time,indian,loafers,11937,22111667,3298004,5979963
+155,Male,33,casual wear,theatre,indian,ballerina ,27319,33211005,5300876,8536941
+156,Male,55,casual wear,theatre,indian,ballerina ,24859,90080043,8223005,1870342
+157,Male,22,casual wear,theatre,indian,ballerina ,21559,60067845,6752935,7445002
+158,Female,81,casual wear,kid zone,chinese,crocs,29548,40043299,6467901,8985432
+159,Female,60,party wear,music zone,chinese,crocs,20101,12001400,4386620,3246787
+160,Male,42,ethnic wear,theatre,chinese,crocs,26403,45320098,7890328,9075210
+161,Male,51,party wear,kid zone,chinese,sneakers,25904,88450022,9943774,9948398
+162,Male,63,ethnic wear,kid zone,french,sneakers,21506,43220006,4349227,5560984
+163,Male,52,party wear,kid zone,french,sneakers,24811,66329932,9117224,7904321
+164,Male,40,ethnic wear,party time,indian,sneakers,10358,87650032,8349630,9345621
+165,Male,46,party wear,music zone,french,ballerina ,23300,43034505,4200134,4890221
+166,Male,51,party wear,theatre,french,ballerina ,25016,32004598,8100772,5489021
+167,Male,67,party wear,music zone,french,ballerina ,18645,45320077,2162943,2311008
+168,Male,68,ethnic wear,music zone,american,ballerina ,16545,12356781,6219456,4692231
+169,Female,38,ethnic wear,music zone,french,sneakers,24510,65449003,4391722,9467893
+170,Female,29,casual wear,theatre,french,sneakers,25555,79043943,4432962,3289764
+171,Female,17,casual wear,theatre,french,sneakers,21641,84897981,4736002,2311678
+172,Female,64,traditional wear,theatre,french,sneakers,26484,99657156,5200762,4455990
+173,Female,6,casual wear,party time,american,sneakers,21541,79040943,3117943,3904356
+174,Female,66,ethnic wear,party time,chinese,sneakers,26451,99593321,3296432,1256792
+175,Female,50,casual wear,party time,chinese,ballerina ,20310,94379722,3456721,1906754
+176,Female,83,traditional wear,theatre,indian,ballerina ,15942,65935432,9842658,5324998
+177,Female,19,ethnic wear,party time,chinese,loafers,25454,77863211,7734211,9087221
+178,Female,25,party wear,kid zone,chinese,ballerina ,16565,87934210,8805321,7600453
+179,Female,15,party wear,music zone,american,ballerina ,17355,66889933,5432145,4320098
+180,Female,18,party wear,theatre,american,loafers,19111,76453322,5388902,3407256
+181,Female,19,ethnic wear,theatre,american,crocs,24150,89774592,4390876,1098734
+182,Male,30,party wear,theatre,american,crocs,19345,34969077,2908765,7389213
+183,Male,35,traditional wear,party time,chinese,crocs,24445,23554478,5690321,2345987
+184,Male,42,traditional wear,party time,indian,crocs,26145,87654432,9436890,7658907
+185,Male,68,traditional wear,party time,french,crocs,25454,65895626,7438904,2666666
+186,Male,5,casual wear,theatre,french,crocs,21844,62598566,9867540,9345211
+187,Female,79,ethnic wear,kid zone,french,loafers,20035,91526626,4537001,3456217
+188,Female,25,casual wear,theatre,chinese,loafers,24510,51595854,3409221,7112220
+189,Male,45,party wear,kid zone,chinese,ballerina ,18456,26225656,6549902,6342119
+190,Female,21,casual wear,theatre,indian,ballerina ,17546,51215488,6543245,4327785
+191,Male,45,traditional wear,kid zone,chinese,loafers,25481,26592848,2243532,5432189
+192,Female,62,ethnic wear,theatre,american,sneakers,24615,65629899,5221665,4532189
+193,Male,54,casual wear,music zone,american,sneakers,21562,59232959,8770654,9435672
+194,Male,84,ethnic wear,music zone,american,sneakers,24835,32132159,8933410,9134567
+195,Male,20,party wear,music zone,chinese,ballerina ,17748,56488899,5976443,56764
+196,Female,41,ethnic wear,theatre,chinese,ballerina ,15545,22222222,2332005,76420
+197,Male,28,casual wear,theatre,chinese,ballerina ,16484,55555555,5598863,54346
+198,Male,55,casual wear,music zone,indian,loafers,16520,99595252,4396221,490655
+199,Female,66,traditional wear,party time,indian,sneakers,12121,77777777,9070543,4645000
+200,Female,44,party wear,party time,indian,crocs,12111,20220200,7644321,9878365
